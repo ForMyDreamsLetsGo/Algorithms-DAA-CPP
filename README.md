@@ -10,3 +10,5 @@ No particular design strategy has been followed as they are made for college sub
 All the programs require text file input in command line while running. sample files have been provided for reference about the kind of files are accepted. It is assumed that the user understands which algorithm requires which kind of input Files. 
 
 Any Modifications, suggestions, documentation, or addition of new algorithms for completness are always welcome . New submissions are expected to follow the design policy or a better one than existing ones as much as possible.(Well they must not atleast be copy/paste programs one can find anywhere)
+
+Many programs like knapsack.cpp use novel approaches like bottom upr recursion which may take some time to get used to. So anyone using these programs is humbly requested to add some documentation for new-comers if they have got time. Thanks! 
