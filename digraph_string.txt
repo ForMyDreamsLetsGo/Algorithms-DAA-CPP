@@ -1,0 +1,20 @@
+Mumbai           Delhi Bangalore Chennai 
+Delhi            Mumbai Bangalore Kolkata Chennai Beijing
+Bangalore        Mumbai Delhi Hyderabad Chennai
+Chennai          Mumbai Delhi Bangalore Kolkata Hyderabad
+Kolkata          Delhi Chennai Bangkok Singapore
+Hyderabad        Bangalore Chennai Dubai
+Dubai            Hyderabad AbuDhabi
+AbuDhabi         Dubai Doha
+Doha             AbuDhabi Muscat Istanbul
+Muscat           Doha Riyadh Istanbul
+Riyadh           Jeddah
+Jeddah           Riyadh Cairo
+Cairo            Jeddah Nairobi
+Istanbul         Doha Muscat Riyadh Jeddah Cairo Dubai
+Bangkok          Kolkata Singapore
+Singapore        Kolkata Bangkok
+Nairobi          Cairo Johannesburg
+Johannesburg     Nairobi CapeTown
+CapeTown        Johannesburg
+Beijing          Shanghai Delhi

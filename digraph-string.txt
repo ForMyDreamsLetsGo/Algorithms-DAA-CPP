@@ -1,0 +1,15 @@
+Delhi    Mumbai Kolkata Chennai Dubai London
+Mumbai    Delhi Kolkata Chennai Dubai AbuDhabi Bangkok Singapore
+Kolkata    Delhi Mumbai Chennai Dubai Bangkok Singapore
+Chennai    Delhi Mumbai Kolkata Dubai Singapore KualaLumpur
+Dubai    Delhi Mumbai Kolkata Chennai London Paris NewYork
+London    Delhi Dubai Paris NewYork Toronto
+Paris    Dubai London NewYork Toronto
+NewYork    Dubai London Paris Toronto LosAngeles
+Toronto    London Paris NewYork LosAngeles
+LosAngeles    NewYork Toronto
+AbuDhabi    Mumbai Singapore KualaLumpur
+Bangkok    Mumbai Kolkata Singapore KualaLumpur
+Singapore    Mumbai Kolkata Chennai AbuDhabi Bangkok KualaLumpur Sydney
+KualaLumpur    Chennai AbuDhabi Bangkok Singapore Sydney
+Sydney    Singapore KualaLumpur    
