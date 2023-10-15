@@ -12,10 +12,14 @@ All the programs require text file input in command line while running. sample f
 // format to run in cmd
   cd file location / <program_name>.exe <file_name>
     ex:- Dijkstra.exe undirected-weighted-graph.txt
+    
          Topological_sort.exe digraph-int.txt
+         
          prim.exe undirected_weighted_graph.txt
+         
          DFS.exe undirected -unweighted-graph.txt
-         BFS.exe digraph-char.txt
+         
+         BFS.exe digraph-char.txt         
          
 
 Any Modifications, suggestions, documentation, or addition of new algorithms for completness are always welcome . New submissions are expected to follow the design policy or a better one than existing ones as much as possible.(Well they must not atleast be copy/paste programs one can find anywhere)
