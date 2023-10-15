@@ -10,7 +10,8 @@ No particular design strategy has been followed as they are made for college sub
 All the programs require text file input in command line while running. sample files have been provided for reference about the kind of files are accepted. It is assumed that the user understands which algorithm requires which kind of input Files. 
 //update 16=10-23. added respective txt file names for cpp files
 // format to run in cmd
-  cd file location / <program_name>.exe <file_name>
+ 
+    cd file location / <program_name>.exe <file_name>
     ex:- Dijkstra.exe undirected-weighted-graph.txt
     
          Topological_sort.exe digraph-int.txt
